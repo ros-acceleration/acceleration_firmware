@@ -97,8 +97,10 @@ There is an automated test which runs a linter that ensures each file has at lea
 The results of the test can be found [here](https://ci.ros2.org/view/nightly/job/nightly_linux_release/lastBuild/testReport/acceleration_firmware/copyright/). 
 -->
 
+
 ## Testing [4]
 
+<!-- 
 ### Feature Testing [4.i]
 
 `acceleration_firmware` has feature tests, which test for proper node state transitions.
@@ -110,8 +112,6 @@ Currently nightly test results can be seen here:
 * [mac_osx_release](https://ci.ros2.org/view/nightly/job/nightly_osx_release/lastBuild/testReport/acceleration_firmware/)
 * [windows_release](https://ci.ros2.org/view/nightly/job/nightly_win_rel/lastBuild/testReport/acceleration_firmware/)
 
-
-<!-- 
 ### Public API Testing [4.ii]
 
 Each part of the public API has tests, and new additions or changes to the public API require tests before being added. The tests aim to cover both typical usage and corner cases, but are quantified by contributing to code coverage.

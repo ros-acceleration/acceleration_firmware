@@ -7,6 +7,7 @@
     Base ROS 2 package for hardware acceleration firmware. Used to organize firmware dependencies across vendors.
   </description>
   <maintainer email="victorma@xilinx.com">Víctor Mayoral Vilches</maintainer>
+  <author email="victorma@xilinx.com">Víctor Mayoral Vilches</author>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake_core</buildtool_depend>
